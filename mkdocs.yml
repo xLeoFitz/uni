@@ -4,6 +4,7 @@ theme:
   name: material
 
 nav:
-  - Section:
-    - Parallel-Computing/mode.md
+  - Home: index.md
+    - Parallel Computing:
+      - 1.Time-to-Solution: Parallel-Computing/mode.md
     
