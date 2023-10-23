@@ -2,3 +2,8 @@ site_name: My Docs
 
 theme:
   name: material
+
+nav:
+  - Section:
+    - Parallel-Computing/mode.md
+    
